@@ -46,13 +46,3 @@ namespace MagtifunSMS
         }
     }
 }
-
-
-
-
-
-/*CookieContainer cookieJar = new CookieContainer();
-HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create("http://www.google.com");
-request.CookieContainer = cookieJar;
-
-HttpWebResponse response = (HttpWebResponse)request.GetResponse();*/
