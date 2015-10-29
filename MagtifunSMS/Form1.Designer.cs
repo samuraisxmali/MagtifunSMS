@@ -186,9 +186,9 @@
             this.label7.ForeColor = System.Drawing.Color.Gray;
             this.label7.Location = new System.Drawing.Point(123, 12);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(184, 24);
+            this.label7.Size = new System.Drawing.Size(192, 24);
             this.label7.TabIndex = 14;
-            this.label7.Text = "Soft. by ProsHackIt";
+            this.label7.Text = "Soft. by ProsHackIT";
             // 
             // listBoxNumbers
             // 
@@ -314,7 +314,7 @@
             this.label5.TabIndex = 0;
             this.label5.Text = "თქვენს ანგარიშზეა";
             // 
-            // frmMagtifun
+            // FrmMagtifun
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
