@@ -1,9 +1,0 @@
-C:\Users\Admin\Documents\GitHub\MagtifunSMS\MagtifunSMS\bin\Debug\MagtifunSMS.exe.config
-C:\Users\Admin\Documents\GitHub\MagtifunSMS\MagtifunSMS\bin\Debug\MagtifunSMS.exe
-C:\Users\Admin\Documents\GitHub\MagtifunSMS\MagtifunSMS\bin\Debug\MagtifunSMS.pdb
-C:\Users\Admin\Documents\GitHub\MagtifunSMS\MagtifunSMS\obj\Debug\MagtifunSMS.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Documents\GitHub\MagtifunSMS\MagtifunSMS\obj\Debug\MagtifunSMS.FrmMagtifun.resources
-C:\Users\Admin\Documents\GitHub\MagtifunSMS\MagtifunSMS\obj\Debug\MagtifunSMS.Properties.Resources.resources
-C:\Users\Admin\Documents\GitHub\MagtifunSMS\MagtifunSMS\obj\Debug\MagtifunSMS.csproj.GenerateResource.Cache
-C:\Users\Admin\Documents\GitHub\MagtifunSMS\MagtifunSMS\obj\Debug\MagtifunSMS.exe
-C:\Users\Admin\Documents\GitHub\MagtifunSMS\MagtifunSMS\obj\Debug\MagtifunSMS.pdb
